@@ -1,0 +1,14 @@
+﻿IRCName=ESCTP Server IRC
+IRCDescription=This is a test server, and is still under develop.
+Welcome=&A0Welcome to this server.
+Address=127.0.0.1
+Port=7655
+MaxClients=20
+ClientTimeout=3000
+Anonymous=true
+Register=true
+RecentMessageCount=16
+TimerInterval=600
+AllowUpload=true
+# There should be no spaces between equal symbol.
+# Use "&n" in the value to start a new line.

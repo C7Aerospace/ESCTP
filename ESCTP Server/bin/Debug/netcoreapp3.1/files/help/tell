@@ -1,0 +1,3 @@
+&C0"tell"&e0 用法:
+&C0  tell <user> <message>
+&70  向特定用户发送私密消息。
